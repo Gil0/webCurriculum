@@ -25,3 +25,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+##Descripcion General
+Desarrollo de mi Currículum Web, una página personal diseñada a modo de currículum, es decir, como una presentación de tus habilidades, capacidades , logros y disponible en Internet, para que cualquier empresario del mundo pueda acceder a ella.
+
+##Autor
+Rafael Gil Sanchez
